@@ -1,0 +1,9 @@
+../Core/Src/motor.c:42:13:Drive_SetPWM	24	static
+../Core/Src/motor.c:50:13:Steering_SetPWM	24	static
+../Core/Src/motor.c:61:6:motor_init	8	static
+../Core/Src/motor.c:72:6:motor_forward	16	static
+../Core/Src/motor.c:83:6:motor_backward	16	static
+../Core/Src/motor.c:94:6:motor_stop	8	static
+../Core/Src/motor.c:107:6:motor_left	16	static
+../Core/Src/motor.c:118:6:motor_right	16	static
+../Core/Src/motor.c:129:6:motor_steer_stop	8	static

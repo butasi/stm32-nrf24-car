@@ -1,0 +1,14 @@
+# Build folders
+**/Debug/
+**/Release/
+
+# Binaries
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# STM32CubeIDE
+.metadata/
+**/.settings/

@@ -12,7 +12,9 @@ Now upgraded to **4WD**, so it’s faster and has more torque.
 ---
 
 ## Project Structure
-├── CAR-RECEIVER-G4/    # Car (STM32G4) └── F107RTC6.NRF24.TRANSMITTER/ #Controller (STM32F1)
+├── CAR-RECEIVER-G4/    # Car (STM32G4)
+└── F107RTC6.NRF24.TRANSMITTER/ #Controller (STM32F1)
+
 ---
 
 ## Hardware
